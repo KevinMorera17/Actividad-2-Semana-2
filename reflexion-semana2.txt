@@ -1,0 +1,6 @@
+REFLEXION
+la importancia de saber organizar archivos para un programador es mucha, pues ya que esto influye
+en como se dan los resultados de los codigos y de los diferentes archivos asi mismo se facilita
+trabajar siendo mas organizado y mas eficaz por lo tanto, para nosotros aprendiendo se nos facilita 
+al momento de saber que archivos tenemos dentro del repositorio y en todo lo demas siempre es
+importante manejar un orden
